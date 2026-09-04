@@ -1,0 +1,97 @@
+{
+    "Urls": "http://127.0.0.1:80",
+    "Logging": {
+      "LogLevel": {
+        "Default": "Warning",
+        "Microsoft.AspNetCore": "Warning"
+      }
+    },
+    "PackageShirtAssetId": -1,
+    "PackagePantsAssetId": -1,
+    "PackageLeftArmAssetId": -1,
+    "PackageRightArmAssetId": -1,
+    "PackageLeftLegAssetId": -1,
+    "PackageRightLegAssetId": -1,
+    "PackageTorsoAssetId": -1,
+    "SignupAssetIdsMan": [],
+    "SignupAssetIdsFemale": [],
+    "SignupAvatarAssetIdsMan": [],
+    "SignupAvatarAssetIdsFemale": [],
+    "CdnBaseUrl": "",
+    "BaseUrl": "http://www.novarbx.cc",
+	"AssetUrl": "https://www.novarbx.cc",
+	"GSIPAddress": "45.133.74.72",
+	"Webhook": "https://discord.com/api/webhooks/1544773069426393199/CzwvpsiTWQJsb5Dz_-o9-Mcj7DtAw5XPqR3iGrHBu31GFUKQRPjDTRen5bDuoCvTdQwb",
+	"SignupWebhook": "https://discord.com/api/webhooks/1544773258484650015/HEl8OTSrhEIq-V2v-HEG210Q95SiCGxAVYPcHFG6GIj7sg2t6-o2ymR1FuHrrDPX1f_R",
+	"DiscordClientID": "1435253705959145472",
+	"DiscordClientSecret": "kwYcxKr7tQqZG-Xlufie7dwG6RPsGglG",
+	"DiscordRedirect": "https://www.novarbx.cc/discordcb",
+	"DiscordForgotPasswordRedirect": "https://www.novarbx.cc/forgotcb",
+	"DiscordLoginRedirect": "https://www.novarbx.cc/logincb",
+	"DiscordKey": "AVerySecureLongStringGoesHere",
+	"IPSalt": "AVerySecureLongRandomStringOfCharactersMakeThisLong",
+	"IPHubApiKey": "YourIpHub.InfoApiKey",
+    "Authorization": "YourSessionAuthThisCanBeAnything",
+	"BubbamonsApiKey": "Idkwhatthiswasusedforsolikechangeitig",
+    "Postgres": "Host=127.0.0.1; Database=bbblox; Password=bitch; Username=postgres; Maximum Pool Size=20",
+    "Redis": "127.0.0.1:6379",
+	"GameServer": {
+	  "AllowedNetworkPorts": [1, 2, 3]
+	},
+    "AssetValidation": {
+      "BaseUrl": "http://localhost:4300",
+      "Authorization": "Not used"
+    },
+    "Render": {
+      "BaseUrl": "ws://localhost:3189",
+      "Authorization": "rendering123ss"
+    },
+    "GameServerAuthorization": "rendering123ss",
+    "OwnerUserId": "3",
+    "RobloxOpenCloudApiKey": "zlugOj3zYEWWdUfFU9CLbYLhng7A6AlmGaszbxykMgttTc2rZXlKaGJHY2lPaUpTVXpJMU5pSXNJbXRwWkNJNkluTnBaeTB5TURJeExUQTNMVEV6VkRFNE9qVXhPalE1V2lJc0luUjVjQ0k2SWtwWFZDSjkuZXlKaGRXUWlPaUpTYjJKc2IzaEpiblJsY201aGJDSXNJbWx6Y3lJNklrTnNiM1ZrUVhWMGFHVnVkR2xqWVhScGIyNVRaWEoyYVdObElpd2lZbUZ6WlVGd2FVdGxlU0k2SW5wc2RXZFBhak42V1VWWFYyUlZaa1pWT1VOTVlsbE1hRzVuTjBFMlFXeHRSMkZ6ZW1KNGVXdE5aM1IwVkdNeWNpSXNJbTkzYm1WeVNXUWlPaUk1TmpjMU1EZzFOVEEzSWl3aVpYaHdJam94TnpnNE1qTTFPRGN3TENKcFlYUWlPakUzT0RneU16SXlOekFzSW01aVppSTZNVGM0T0RJek1qSTNNSDAuRi01WkZiUkN5SGU2MWFTenpaZXZ0N3JldUVDYmhVLU9SeUpWb3ZtRzZBMVRlTkZzWmROZVJ0RUtwb0pOR2JZSDhla2RsT2IyVVNmYm5fOFpaTVc4OGU2VjFEZE9TUHo5eTlHYkh3YnlvaGNUZ1dLZDdsVjFmSDU2dUZWa0pYakxNdHJXdnhNeXUwbTZVRFBValA3dXlHZW5sNFRXb253QmJ1dnlTUVVUaUl4UGZtMmgyYzdrZjdxcUpuOVltaFJJTmw0X1hUVHpPejZTTU44U3dkeVpnVGJhcWRCaFItYjRVUnBsUXotbnF4OUxHTTk2LUlmcGtNcnRwM05wSVN6NlVkT0VESERaZ3R2SmNIUDlJVkYxLWdiSDE2VEk3UzRlb3dSM0lseFFUNzVjQ0UwM0x6cUNlbi0xN2hWSGcxMFZva3g2aU91dnZubDRwVUktWGFjZWhB",
+    "HCaptcha": {
+      "Public": "10000000-ffff-ffff-ffff-000000000001",
+      "Private": "0x0000000000000000000000000000000000000000"
+    },
+    "BotAuthorization": "boithoutwowowow",
+    "RccAuthorization": "idkrccyes",
+    "InfluxDB": {
+      "Website": {
+        "BaseUrl": "https://influx.roblox.com",
+        "Authorization": "Influx auth string here"
+      }
+    },
+	"AllowedQuietGetJson": [
+    "ClientAppSettings",
+    "RCCService",
+	"avatar-colors",
+	"RCCServiceBubbleRev2021RCCIsSoTuff",
+	"BubbleRev2021RCCIsSoTuff",
+	"2015MAppSettings",
+	"RCC2015MBubbleRev2021RCCIsSoTuff",
+	"RCC2017EBubbleRev2021RCCIsSoTuff",
+	"2017fflag",
+	"Change these to stuff like RCCServiceYoursettingskeyintheregistry and just your settings key in the reg"
+	],
+    "Directories": {
+      "Storage": "C:\\bubbablox-v2-2021\\api\\storage\\",
+      "Asset": "C:\\bubbablox-v2-2021\\api\\storage\\asset\\",
+      "Public": "C:\\bubbablox-v2-2021\\api\\public\\",
+      "Thumbnails": "C:\\bubbablox-v2-2021\\api\\public\\images\\thumbnails\\",
+      "GroupIcons": "C:\\bubbablox-v2-2021\\api\\public\\images\\groups\\",
+      "XmlTemplates": "C:\\bubbablox-v2-2021\\Roblox/Roblox.Libraries\\Templates\\",
+      "JsonData": "C:\\bubbablox-v2-2021\\Roblox\\Roblox.Libraries\\Json\\",
+      "AdminBundle": "C:\\bubbablox-v2-2021\\admin\\public\\",
+      "EconomyChatBundle": "C:\\bubbablox-v2-2021\\economy-chat\\build\\",
+	  "RccServicePath": "C:\\bubbablox-v2-2021\\RCCService\\",
+	  "RccService2015Path": "C:\\bubbablox-v2-2021\\RCCService2015\\",
+	  "RccService2017Path": "C:\\bubbablox-v2-2021\\RCCService2017\\",
+	  "RccService2018Path": "C:\\bubbablox-v2-2021\\RCCService2018\\",
+	  "RccService2020Path": "C:\\bubbablox-v2-2021\\RCCService2020\\",
+      "LuaScripts": "C:\\bubbablox-v2-2021\\Roblox\\Roblox.Services\\Games\\internalscripts\\"
+    },
+    "Jwt": {
+	  "Sessions": "YourVerySecureSessionsKeyMakeThisReallyLong"
+    },
+    "AllowedHosts": "*"
+ }
