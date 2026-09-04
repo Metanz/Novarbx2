@@ -1,0 +1,10 @@
+config.json
+cookies.txt
+public/images/thumbnails/*
+public/images/groups/*
+public.zip
+dist
+tmp
+node_modules
+storage
+public/RobloxApp

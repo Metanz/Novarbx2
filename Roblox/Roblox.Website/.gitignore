@@ -1,0 +1,9 @@
+obj
+Properties
+appsettings.json
+appsettings.*.json
+game-servers.json
+ffmpeg.exe
+ffplay.exe
+ffprobe.exe
+AssetCache
